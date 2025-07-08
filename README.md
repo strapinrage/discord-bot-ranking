@@ -17,8 +17,8 @@ Ranking obejmuję od 1-50 rang. Discord bot sam stopniowo tworzy ranking. I aktu
 The ranking includes from 1-50 ranks. Discord bot itself gradually creates the ranking. And I update it every 5 minutes.
 ## Author
 
-- [@vault](https://github.com/moneyleaks)
-- My Discord: .cumsluts (418507608274501644)
+- [@vault](https://github.com/strapinrage)
+- My Discord: strapinrage (418507608274501644)
 
 - Bot został przygotowany dla serwera .gg/dolina
 ## License
